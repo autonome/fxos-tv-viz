@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "name": "FxOS TV Visualization Gallery",
+  "description": "A collection of Codepen visualizations to show on Firefox OS TVs on display.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Dietrich Ayala",
+    "url": "http://metafluff.com"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {},
+  "default_locale": "en"
+}
